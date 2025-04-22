@@ -1,0 +1,5 @@
+solver,solve_time,objective_value,constraint_violation,dual_infeasibility,iterations,status,termination_condition
+ipopt,0.09147524833679199,766182829.7068015,1.7674750552032492e-13,1.6908414737157318e-06,114,ok,optimal
+gams_snopt,0.14811396598815918,766182857.2253047,173.0,107.0,85,ok,locallyOptimal
+gams_minos,0.15006303787231445,766182857.2253749,2.1e-13,13.0,100,ok,locallyOptimal
+gams_conopt,0.1614851951599121,766182857.2253047,0.0,22.0,12,ok,locallyOptimal

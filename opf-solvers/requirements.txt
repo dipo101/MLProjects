@@ -1,0 +1,11 @@
+numpy>=1.21.0
+pandas>=1.3.0
+matplotlib>=3.4.0
+seaborn>=0.11.0
+networkx>=2.6.0
+pyomo>=6.4.0
+ipopt>=3.14.0
+knitro>=13.0.0
+gurobi>=9.5.0
+cplex>=22.1.0
+pandapower>=2.7.0 
