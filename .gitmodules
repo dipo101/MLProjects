@@ -1,0 +1,3 @@
+[submodule "opf-solvers"]
+	path = opf-solvers
+	url = https://github.com/dipo101/opf-solvers.git
